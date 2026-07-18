@@ -1,0 +1,15 @@
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/bin/Debug/net10.0/Curso C# - Ralf Lima
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/bin/Debug/net10.0/Curso C# - Ralf Lima.deps.json
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/bin/Debug/net10.0/Curso C# - Ralf Lima.runtimeconfig.json
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/bin/Debug/net10.0/Curso C# - Ralf Lima.dll
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/bin/Debug/net10.0/Curso C# - Ralf Lima.pdb
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.AssemblyInfoInputs.cache
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.AssemblyInfo.cs
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.csproj.CoreCompileInputs.cache
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.sourcelink.json
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.dll
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/refint/Curso C# - Ralf Lima.dll
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.pdb
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/Curso C# - Ralf Lima.genruntimeconfig.cache
+/Users/rafaelamaral/laboratorio/laboratorio/Curso C# - Ralf Lima/obj/Debug/net10.0/ref/Curso C# - Ralf Lima.dll
